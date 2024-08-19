@@ -1,7 +1,7 @@
 # api-basic
 
 ```json
-Ober Users
+Obter Users
 GET - http://localhost:3000/api/users
 
 [
