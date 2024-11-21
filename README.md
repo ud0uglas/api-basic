@@ -97,7 +97,7 @@ Uma API básica para gerenciar usuários. A API permite operações de CRUD (Cre
 
 1. **Clonar o Repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/api-basic.git
+   git clone https://github.com/ud0uglas/api-basic.git
    cd api-basic
    ```
 
